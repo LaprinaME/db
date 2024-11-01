@@ -1,3 +1,7 @@
+-- Create database PetStore (Зоомагазин)
+CREATE DATABASE PetStore;
+GO
+
 USE PetStore;
 GO
 
